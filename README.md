@@ -9,4 +9,5 @@ slmgr -ato
 ---
 ###   \Office16  OSPP.VBS
 cscript ospp.vbs /sethst:kms.03k.org
+
 cscript ospp.vbs /act
