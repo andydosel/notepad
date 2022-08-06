@@ -16,7 +16,7 @@ cscript ospp.vbs /sethst:kms.03k.org
 
 cscript ospp.vbs /act
 
-## \Game Mode
+## Game Mode
 
 ### Color
 
