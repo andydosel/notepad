@@ -18,7 +18,7 @@ cscript ospp.vbs /act
 
 ### Xiaohe
 
-'''
+```
 Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS]
@@ -32,7 +32,7 @@ Windows Registry Editor Version 5.00
 "Enable Double Pinyin"=dword:00000001
 "UserDefinedDoublePinyinScheme0"="xiaohe*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt"
 "DoublePinyinScheme"=dword:0000000a
-'''
+```
 
 ## Game Mode
 
