@@ -16,6 +16,24 @@ cscript ospp.vbs /sethst:kms.03k.org
 
 cscript ospp.vbs /act
 
+### Xiaohe
+
+'''
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\InputMethod\Settings\CHS]
+"Enable Cloud Candidate"=dword:00000000
+"Enable Dynamic Candidate Ranking"=dword:00000001
+"EnableExtraDomainType"=dword:00000001
+"Enable self-learning"=dword:00000001
+"EnableSmartSelfLearning"=dword:00000001
+"EnableLiveSticker"=dword:00000000
+"Enable EUDP"=dword:00000001
+"Enable Double Pinyin"=dword:00000001
+"UserDefinedDoublePinyinScheme0"="xiaohe*2*^*iuvdjhcwfg^xmlnpbksqszxkrltvyovt"
+"DoublePinyinScheme"=dword:0000000a
+'''
+
 ## Game Mode
 
 ### Color
